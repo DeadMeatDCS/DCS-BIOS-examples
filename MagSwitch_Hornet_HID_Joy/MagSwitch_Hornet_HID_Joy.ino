@@ -12,7 +12,7 @@
   HORNET MAG SWITCH HID WORKAROUND EXAMPLE BY DEADMEAT (Joystick v1.0)
   - Joystick version: throw physical switch to trigger HID joystick button press. Assign to appropriate command in DCS
 
-  ALL HORNET MAG SWITCHES SUPPORTED
+  MOST ;) HORNET MAG SWITCHES SUPPORTED
   - APU
   * FUEL DUMP (need fix to allow manual hold-in)
   - HOOK BYPASS
